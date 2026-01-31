@@ -1,0 +1,1601 @@
+lesson_id,lesson_name,course_id
+1,Web Fundamentals,1
+2,HTML & CSS,1
+3,JavaScript Basics,1
+4,Frontend Frameworks,1
+5,Backend Concepts,1
+6,REST APIs,1
+7,Authentication,1
+8,Deployment,1
+9,Web Fundamentals,2
+10,HTML & CSS,2
+11,JavaScript Basics,2
+12,Frontend Frameworks,2
+13,Backend Concepts,2
+14,REST APIs,2
+15,Authentication,2
+16,Deployment,2
+17,Web Fundamentals,3
+18,HTML & CSS,3
+19,JavaScript Basics,3
+20,Frontend Frameworks,3
+21,Backend Concepts,3
+22,REST APIs,3
+23,Authentication,3
+24,Deployment,3
+25,Web Fundamentals,4
+26,HTML & CSS,4
+27,JavaScript Basics,4
+28,Frontend Frameworks,4
+29,Backend Concepts,4
+30,REST APIs,4
+31,Authentication,4
+32,Deployment,4
+33,Web Fundamentals,5
+34,HTML & CSS,5
+35,JavaScript Basics,5
+36,Frontend Frameworks,5
+37,Backend Concepts,5
+38,REST APIs,5
+39,Authentication,5
+40,Deployment,5
+41,Java Overview,6
+42,JVM Architecture,6
+43,OOP Concepts,6
+44,Collections Framework,6
+45,Exception Handling,6
+46,Multithreading,6
+47,File Handling,6
+48,Interview Questions,6
+49,Web Fundamentals,7
+50,HTML & CSS,7
+51,JavaScript Basics,7
+52,Frontend Frameworks,7
+53,Backend Concepts,7
+54,REST APIs,7
+55,Authentication,7
+56,Deployment,7
+57,Web Fundamentals,8
+58,HTML & CSS,8
+59,JavaScript Basics,8
+60,Frontend Frameworks,8
+61,Backend Concepts,8
+62,REST APIs,8
+63,Authentication,8
+64,Deployment,8
+65,Web Fundamentals,9
+66,HTML & CSS,9
+67,JavaScript Basics,9
+68,Frontend Frameworks,9
+69,Backend Concepts,9
+70,REST APIs,9
+71,Authentication,9
+72,Deployment,9
+73,Web Fundamentals,10
+74,HTML & CSS,10
+75,JavaScript Basics,10
+76,Frontend Frameworks,10
+77,Backend Concepts,10
+78,REST APIs,10
+79,Authentication,10
+80,Deployment,10
+81,Java Overview,11
+82,JVM Architecture,11
+83,OOP Concepts,11
+84,Collections Framework,11
+85,Exception Handling,11
+86,Multithreading,11
+87,File Handling,11
+88,Interview Questions,11
+89,Web Fundamentals,12
+90,HTML & CSS,12
+91,JavaScript Basics,12
+92,Frontend Frameworks,12
+93,Backend Concepts,12
+94,REST APIs,12
+95,Authentication,12
+96,Deployment,12
+97,Python Basics,13
+98,Control Flow,13
+99,Functions & Modules,13
+100,OOP in Python,13
+101,File Handling,13
+102,Libraries Overview,13
+103,Error Handling,13
+104,Interview Questions,13
+105,Web Fundamentals,14
+106,HTML & CSS,14
+107,JavaScript Basics,14
+108,Frontend Frameworks,14
+109,Backend Concepts,14
+110,REST APIs,14
+111,Authentication,14
+112,Deployment,14
+113,Web Fundamentals,15
+114,HTML & CSS,15
+115,JavaScript Basics,15
+116,Frontend Frameworks,15
+117,Backend Concepts,15
+118,REST APIs,15
+119,Authentication,15
+120,Deployment,15
+121,Java Overview,16
+122,JVM Architecture,16
+123,OOP Concepts,16
+124,Collections Framework,16
+125,Exception Handling,16
+126,Multithreading,16
+127,File Handling,16
+128,Interview Questions,16
+129,Network Basics,17
+130,OSI & TCP/IP Models,17
+131,IP Addressing,17
+132,Routing & Switching,17
+133,Transport Layer,17
+134,Application Layer,17
+135,Network Security,17
+136,Interview Questions,17
+137,Web Fundamentals,18
+138,HTML & CSS,18
+139,JavaScript Basics,18
+140,Frontend Frameworks,18
+141,Backend Concepts,18
+142,REST APIs,18
+143,Authentication,18
+144,Deployment,18
+145,Network Basics,19
+146,OSI & TCP/IP Models,19
+147,IP Addressing,19
+148,Routing & Switching,19
+149,Transport Layer,19
+150,Application Layer,19
+151,Network Security,19
+152,Interview Questions,19
+153,Web Fundamentals,20
+154,HTML & CSS,20
+155,JavaScript Basics,20
+156,Frontend Frameworks,20
+157,Backend Concepts,20
+158,REST APIs,20
+159,Authentication,20
+160,Deployment,20
+161,Web Fundamentals,21
+162,HTML & CSS,21
+163,JavaScript Basics,21
+164,Frontend Frameworks,21
+165,Backend Concepts,21
+166,REST APIs,21
+167,Authentication,21
+168,Deployment,21
+169,Web Fundamentals,22
+170,HTML & CSS,22
+171,JavaScript Basics,22
+172,Frontend Frameworks,22
+173,Backend Concepts,22
+174,REST APIs,22
+175,Authentication,22
+176,Deployment,22
+177,Web Fundamentals,23
+178,HTML & CSS,23
+179,JavaScript Basics,23
+180,Frontend Frameworks,23
+181,Backend Concepts,23
+182,REST APIs,23
+183,Authentication,23
+184,Deployment,23
+185,Network Basics,24
+186,OSI & TCP/IP Models,24
+187,IP Addressing,24
+188,Routing & Switching,24
+189,Transport Layer,24
+190,Application Layer,24
+191,Network Security,24
+192,Interview Questions,24
+193,Web Fundamentals,25
+194,HTML & CSS,25
+195,JavaScript Basics,25
+196,Frontend Frameworks,25
+197,Backend Concepts,25
+198,REST APIs,25
+199,Authentication,25
+200,Deployment,25
+201,Web Fundamentals,26
+202,HTML & CSS,26
+203,JavaScript Basics,26
+204,Frontend Frameworks,26
+205,Backend Concepts,26
+206,REST APIs,26
+207,Authentication,26
+208,Deployment,26
+209,Web Fundamentals,27
+210,HTML & CSS,27
+211,JavaScript Basics,27
+212,Frontend Frameworks,27
+213,Backend Concepts,27
+214,REST APIs,27
+215,Authentication,27
+216,Deployment,27
+217,Web Fundamentals,28
+218,HTML & CSS,28
+219,JavaScript Basics,28
+220,Frontend Frameworks,28
+221,Backend Concepts,28
+222,REST APIs,28
+223,Authentication,28
+224,Deployment,28
+225,Web Fundamentals,29
+226,HTML & CSS,29
+227,JavaScript Basics,29
+228,Frontend Frameworks,29
+229,Backend Concepts,29
+230,REST APIs,29
+231,Authentication,29
+232,Deployment,29
+233,Web Fundamentals,30
+234,HTML & CSS,30
+235,JavaScript Basics,30
+236,Frontend Frameworks,30
+237,Backend Concepts,30
+238,REST APIs,30
+239,Authentication,30
+240,Deployment,30
+241,Java Overview,31
+242,JVM Architecture,31
+243,OOP Concepts,31
+244,Collections Framework,31
+245,Exception Handling,31
+246,Multithreading,31
+247,File Handling,31
+248,Interview Questions,31
+249,Web Fundamentals,32
+250,HTML & CSS,32
+251,JavaScript Basics,32
+252,Frontend Frameworks,32
+253,Backend Concepts,32
+254,REST APIs,32
+255,Authentication,32
+256,Deployment,32
+257,Web Fundamentals,33
+258,HTML & CSS,33
+259,JavaScript Basics,33
+260,Frontend Frameworks,33
+261,Backend Concepts,33
+262,REST APIs,33
+263,Authentication,33
+264,Deployment,33
+265,Web Fundamentals,34
+266,HTML & CSS,34
+267,JavaScript Basics,34
+268,Frontend Frameworks,34
+269,Backend Concepts,34
+270,REST APIs,34
+271,Authentication,34
+272,Deployment,34
+273,Web Fundamentals,35
+274,HTML & CSS,35
+275,JavaScript Basics,35
+276,Frontend Frameworks,35
+277,Backend Concepts,35
+278,REST APIs,35
+279,Authentication,35
+280,Deployment,35
+281,Web Fundamentals,36
+282,HTML & CSS,36
+283,JavaScript Basics,36
+284,Frontend Frameworks,36
+285,Backend Concepts,36
+286,REST APIs,36
+287,Authentication,36
+288,Deployment,36
+289,Web Fundamentals,37
+290,HTML & CSS,37
+291,JavaScript Basics,37
+292,Frontend Frameworks,37
+293,Backend Concepts,37
+294,REST APIs,37
+295,Authentication,37
+296,Deployment,37
+297,Web Fundamentals,38
+298,HTML & CSS,38
+299,JavaScript Basics,38
+300,Frontend Frameworks,38
+301,Backend Concepts,38
+302,REST APIs,38
+303,Authentication,38
+304,Deployment,38
+305,Web Fundamentals,39
+306,HTML & CSS,39
+307,JavaScript Basics,39
+308,Frontend Frameworks,39
+309,Backend Concepts,39
+310,REST APIs,39
+311,Authentication,39
+312,Deployment,39
+313,Web Fundamentals,40
+314,HTML & CSS,40
+315,JavaScript Basics,40
+316,Frontend Frameworks,40
+317,Backend Concepts,40
+318,REST APIs,40
+319,Authentication,40
+320,Deployment,40
+321,Web Fundamentals,41
+322,HTML & CSS,41
+323,JavaScript Basics,41
+324,Frontend Frameworks,41
+325,Backend Concepts,41
+326,REST APIs,41
+327,Authentication,41
+328,Deployment,41
+329,Web Fundamentals,42
+330,HTML & CSS,42
+331,JavaScript Basics,42
+332,Frontend Frameworks,42
+333,Backend Concepts,42
+334,REST APIs,42
+335,Authentication,42
+336,Deployment,42
+337,Java Overview,43
+338,JVM Architecture,43
+339,OOP Concepts,43
+340,Collections Framework,43
+341,Exception Handling,43
+342,Multithreading,43
+343,File Handling,43
+344,Interview Questions,43
+345,Web Fundamentals,44
+346,HTML & CSS,44
+347,JavaScript Basics,44
+348,Frontend Frameworks,44
+349,Backend Concepts,44
+350,REST APIs,44
+351,Authentication,44
+352,Deployment,44
+353,Java Overview,45
+354,JVM Architecture,45
+355,OOP Concepts,45
+356,Collections Framework,45
+357,Exception Handling,45
+358,Multithreading,45
+359,File Handling,45
+360,Interview Questions,45
+361,Web Fundamentals,46
+362,HTML & CSS,46
+363,JavaScript Basics,46
+364,Frontend Frameworks,46
+365,Backend Concepts,46
+366,REST APIs,46
+367,Authentication,46
+368,Deployment,46
+369,Web Fundamentals,47
+370,HTML & CSS,47
+371,JavaScript Basics,47
+372,Frontend Frameworks,47
+373,Backend Concepts,47
+374,REST APIs,47
+375,Authentication,47
+376,Deployment,47
+377,Web Fundamentals,48
+378,HTML & CSS,48
+379,JavaScript Basics,48
+380,Frontend Frameworks,48
+381,Backend Concepts,48
+382,REST APIs,48
+383,Authentication,48
+384,Deployment,48
+385,Web Fundamentals,49
+386,HTML & CSS,49
+387,JavaScript Basics,49
+388,Frontend Frameworks,49
+389,Backend Concepts,49
+390,REST APIs,49
+391,Authentication,49
+392,Deployment,49
+393,Web Fundamentals,50
+394,HTML & CSS,50
+395,JavaScript Basics,50
+396,Frontend Frameworks,50
+397,Backend Concepts,50
+398,REST APIs,50
+399,Authentication,50
+400,Deployment,50
+401,Web Fundamentals,51
+402,HTML & CSS,51
+403,JavaScript Basics,51
+404,Frontend Frameworks,51
+405,Backend Concepts,51
+406,REST APIs,51
+407,Authentication,51
+408,Deployment,51
+409,Web Fundamentals,52
+410,HTML & CSS,52
+411,JavaScript Basics,52
+412,Frontend Frameworks,52
+413,Backend Concepts,52
+414,REST APIs,52
+415,Authentication,52
+416,Deployment,52
+417,Web Fundamentals,53
+418,HTML & CSS,53
+419,JavaScript Basics,53
+420,Frontend Frameworks,53
+421,Backend Concepts,53
+422,REST APIs,53
+423,Authentication,53
+424,Deployment,53
+425,Arrays & Strings,54
+426,Linked Lists,54
+427,Stacks & Queues,54
+428,Trees,54
+429,Graphs,54
+430,Hashing,54
+431,Time Complexity,54
+432,Problem Solving,54
+433,Web Fundamentals,55
+434,HTML & CSS,55
+435,JavaScript Basics,55
+436,Frontend Frameworks,55
+437,Backend Concepts,55
+438,REST APIs,55
+439,Authentication,55
+440,Deployment,55
+441,Web Fundamentals,56
+442,HTML & CSS,56
+443,JavaScript Basics,56
+444,Frontend Frameworks,56
+445,Backend Concepts,56
+446,REST APIs,56
+447,Authentication,56
+448,Deployment,56
+449,Java Overview,57
+450,JVM Architecture,57
+451,OOP Concepts,57
+452,Collections Framework,57
+453,Exception Handling,57
+454,Multithreading,57
+455,File Handling,57
+456,Interview Questions,57
+457,Web Fundamentals,58
+458,HTML & CSS,58
+459,JavaScript Basics,58
+460,Frontend Frameworks,58
+461,Backend Concepts,58
+462,REST APIs,58
+463,Authentication,58
+464,Deployment,58
+465,Web Fundamentals,59
+466,HTML & CSS,59
+467,JavaScript Basics,59
+468,Frontend Frameworks,59
+469,Backend Concepts,59
+470,REST APIs,59
+471,Authentication,59
+472,Deployment,59
+473,Java Overview,60
+474,JVM Architecture,60
+475,OOP Concepts,60
+476,Collections Framework,60
+477,Exception Handling,60
+478,Multithreading,60
+479,File Handling,60
+480,Interview Questions,60
+481,Web Fundamentals,61
+482,HTML & CSS,61
+483,JavaScript Basics,61
+484,Frontend Frameworks,61
+485,Backend Concepts,61
+486,REST APIs,61
+487,Authentication,61
+488,Deployment,61
+489,Web Fundamentals,62
+490,HTML & CSS,62
+491,JavaScript Basics,62
+492,Frontend Frameworks,62
+493,Backend Concepts,62
+494,REST APIs,62
+495,Authentication,62
+496,Deployment,62
+497,Web Fundamentals,63
+498,HTML & CSS,63
+499,JavaScript Basics,63
+500,Frontend Frameworks,63
+501,Backend Concepts,63
+502,REST APIs,63
+503,Authentication,63
+504,Deployment,63
+505,Web Fundamentals,64
+506,HTML & CSS,64
+507,JavaScript Basics,64
+508,Frontend Frameworks,64
+509,Backend Concepts,64
+510,REST APIs,64
+511,Authentication,64
+512,Deployment,64
+513,Web Fundamentals,65
+514,HTML & CSS,65
+515,JavaScript Basics,65
+516,Frontend Frameworks,65
+517,Backend Concepts,65
+518,REST APIs,65
+519,Authentication,65
+520,Deployment,65
+521,Web Fundamentals,66
+522,HTML & CSS,66
+523,JavaScript Basics,66
+524,Frontend Frameworks,66
+525,Backend Concepts,66
+526,REST APIs,66
+527,Authentication,66
+528,Deployment,66
+529,Arrays & Strings,67
+530,Linked Lists,67
+531,Stacks & Queues,67
+532,Trees,67
+533,Graphs,67
+534,Hashing,67
+535,Time Complexity,67
+536,Problem Solving,67
+537,Web Fundamentals,68
+538,HTML & CSS,68
+539,JavaScript Basics,68
+540,Frontend Frameworks,68
+541,Backend Concepts,68
+542,REST APIs,68
+543,Authentication,68
+544,Deployment,68
+545,Web Fundamentals,69
+546,HTML & CSS,69
+547,JavaScript Basics,69
+548,Frontend Frameworks,69
+549,Backend Concepts,69
+550,REST APIs,69
+551,Authentication,69
+552,Deployment,69
+553,Web Fundamentals,70
+554,HTML & CSS,70
+555,JavaScript Basics,70
+556,Frontend Frameworks,70
+557,Backend Concepts,70
+558,REST APIs,70
+559,Authentication,70
+560,Deployment,70
+561,Web Fundamentals,71
+562,HTML & CSS,71
+563,JavaScript Basics,71
+564,Frontend Frameworks,71
+565,Backend Concepts,71
+566,REST APIs,71
+567,Authentication,71
+568,Deployment,71
+569,Web Fundamentals,72
+570,HTML & CSS,72
+571,JavaScript Basics,72
+572,Frontend Frameworks,72
+573,Backend Concepts,72
+574,REST APIs,72
+575,Authentication,72
+576,Deployment,72
+577,Web Fundamentals,73
+578,HTML & CSS,73
+579,JavaScript Basics,73
+580,Frontend Frameworks,73
+581,Backend Concepts,73
+582,REST APIs,73
+583,Authentication,73
+584,Deployment,73
+585,Web Fundamentals,74
+586,HTML & CSS,74
+587,JavaScript Basics,74
+588,Frontend Frameworks,74
+589,Backend Concepts,74
+590,REST APIs,74
+591,Authentication,74
+592,Deployment,74
+593,Network Basics,75
+594,OSI & TCP/IP Models,75
+595,IP Addressing,75
+596,Routing & Switching,75
+597,Transport Layer,75
+598,Application Layer,75
+599,Network Security,75
+600,Interview Questions,75
+601,Arrays & Strings,76
+602,Linked Lists,76
+603,Stacks & Queues,76
+604,Trees,76
+605,Graphs,76
+606,Hashing,76
+607,Time Complexity,76
+608,Problem Solving,76
+609,Web Fundamentals,77
+610,HTML & CSS,77
+611,JavaScript Basics,77
+612,Frontend Frameworks,77
+613,Backend Concepts,77
+614,REST APIs,77
+615,Authentication,77
+616,Deployment,77
+617,Web Fundamentals,78
+618,HTML & CSS,78
+619,JavaScript Basics,78
+620,Frontend Frameworks,78
+621,Backend Concepts,78
+622,REST APIs,78
+623,Authentication,78
+624,Deployment,78
+625,DBMS Overview,79
+626,ER Modeling,79
+627,Normalization,79
+628,SQL Basics,79
+629,Joins & Subqueries,79
+630,Indexes,79
+631,Transactions & ACID,79
+632,Interview Questions,79
+633,Web Fundamentals,80
+634,HTML & CSS,80
+635,JavaScript Basics,80
+636,Frontend Frameworks,80
+637,Backend Concepts,80
+638,REST APIs,80
+639,Authentication,80
+640,Deployment,80
+641,Web Fundamentals,81
+642,HTML & CSS,81
+643,JavaScript Basics,81
+644,Frontend Frameworks,81
+645,Backend Concepts,81
+646,REST APIs,81
+647,Authentication,81
+648,Deployment,81
+649,Web Fundamentals,82
+650,HTML & CSS,82
+651,JavaScript Basics,82
+652,Frontend Frameworks,82
+653,Backend Concepts,82
+654,REST APIs,82
+655,Authentication,82
+656,Deployment,82
+657,Web Fundamentals,83
+658,HTML & CSS,83
+659,JavaScript Basics,83
+660,Frontend Frameworks,83
+661,Backend Concepts,83
+662,REST APIs,83
+663,Authentication,83
+664,Deployment,83
+665,Algorithm Analysis,84
+666,Sorting Algorithms,84
+667,Searching Algorithms,84
+668,Recursion,84
+669,Greedy Algorithms,84
+670,Dynamic Programming,84
+671,Graph Algorithms,84
+672,Interview Problems,84
+673,Web Fundamentals,85
+674,HTML & CSS,85
+675,JavaScript Basics,85
+676,Frontend Frameworks,85
+677,Backend Concepts,85
+678,REST APIs,85
+679,Authentication,85
+680,Deployment,85
+681,Web Fundamentals,86
+682,HTML & CSS,86
+683,JavaScript Basics,86
+684,Frontend Frameworks,86
+685,Backend Concepts,86
+686,REST APIs,86
+687,Authentication,86
+688,Deployment,86
+689,Web Fundamentals,87
+690,HTML & CSS,87
+691,JavaScript Basics,87
+692,Frontend Frameworks,87
+693,Backend Concepts,87
+694,REST APIs,87
+695,Authentication,87
+696,Deployment,87
+697,Web Fundamentals,88
+698,HTML & CSS,88
+699,JavaScript Basics,88
+700,Frontend Frameworks,88
+701,Backend Concepts,88
+702,REST APIs,88
+703,Authentication,88
+704,Deployment,88
+705,Web Fundamentals,89
+706,HTML & CSS,89
+707,JavaScript Basics,89
+708,Frontend Frameworks,89
+709,Backend Concepts,89
+710,REST APIs,89
+711,Authentication,89
+712,Deployment,89
+713,Web Fundamentals,90
+714,HTML & CSS,90
+715,JavaScript Basics,90
+716,Frontend Frameworks,90
+717,Backend Concepts,90
+718,REST APIs,90
+719,Authentication,90
+720,Deployment,90
+721,Web Fundamentals,91
+722,HTML & CSS,91
+723,JavaScript Basics,91
+724,Frontend Frameworks,91
+725,Backend Concepts,91
+726,REST APIs,91
+727,Authentication,91
+728,Deployment,91
+729,Web Fundamentals,92
+730,HTML & CSS,92
+731,JavaScript Basics,92
+732,Frontend Frameworks,92
+733,Backend Concepts,92
+734,REST APIs,92
+735,Authentication,92
+736,Deployment,92
+737,Web Fundamentals,93
+738,HTML & CSS,93
+739,JavaScript Basics,93
+740,Frontend Frameworks,93
+741,Backend Concepts,93
+742,REST APIs,93
+743,Authentication,93
+744,Deployment,93
+745,DBMS Overview,94
+746,ER Modeling,94
+747,Normalization,94
+748,SQL Basics,94
+749,Joins & Subqueries,94
+750,Indexes,94
+751,Transactions & ACID,94
+752,Interview Questions,94
+753,Web Fundamentals,95
+754,HTML & CSS,95
+755,JavaScript Basics,95
+756,Frontend Frameworks,95
+757,Backend Concepts,95
+758,REST APIs,95
+759,Authentication,95
+760,Deployment,95
+761,Web Fundamentals,96
+762,HTML & CSS,96
+763,JavaScript Basics,96
+764,Frontend Frameworks,96
+765,Backend Concepts,96
+766,REST APIs,96
+767,Authentication,96
+768,Deployment,96
+769,OS Overview,97
+770,Process Management,97
+771,Threading,97
+772,CPU Scheduling,97
+773,Deadlocks,97
+774,Memory Management,97
+775,File Systems,97
+776,Interview Questions,97
+777,Web Fundamentals,98
+778,HTML & CSS,98
+779,JavaScript Basics,98
+780,Frontend Frameworks,98
+781,Backend Concepts,98
+782,REST APIs,98
+783,Authentication,98
+784,Deployment,98
+785,Java Overview,99
+786,JVM Architecture,99
+787,OOP Concepts,99
+788,Collections Framework,99
+789,Exception Handling,99
+790,Multithreading,99
+791,File Handling,99
+792,Interview Questions,99
+793,Python Basics,100
+794,Control Flow,100
+795,Functions & Modules,100
+796,OOP in Python,100
+797,File Handling,100
+798,Libraries Overview,100
+799,Error Handling,100
+800,Interview Questions,100
+801,Arrays & Strings,101
+802,Linked Lists,101
+803,Stacks & Queues,101
+804,Trees,101
+805,Graphs,101
+806,Hashing,101
+807,Time Complexity,101
+808,Problem Solving,101
+809,Web Fundamentals,102
+810,HTML & CSS,102
+811,JavaScript Basics,102
+812,Frontend Frameworks,102
+813,Backend Concepts,102
+814,REST APIs,102
+815,Authentication,102
+816,Deployment,102
+817,Web Fundamentals,103
+818,HTML & CSS,103
+819,JavaScript Basics,103
+820,Frontend Frameworks,103
+821,Backend Concepts,103
+822,REST APIs,103
+823,Authentication,103
+824,Deployment,103
+825,Web Fundamentals,104
+826,HTML & CSS,104
+827,JavaScript Basics,104
+828,Frontend Frameworks,104
+829,Backend Concepts,104
+830,REST APIs,104
+831,Authentication,104
+832,Deployment,104
+833,Web Fundamentals,105
+834,HTML & CSS,105
+835,JavaScript Basics,105
+836,Frontend Frameworks,105
+837,Backend Concepts,105
+838,REST APIs,105
+839,Authentication,105
+840,Deployment,105
+841,Web Fundamentals,106
+842,HTML & CSS,106
+843,JavaScript Basics,106
+844,Frontend Frameworks,106
+845,Backend Concepts,106
+846,REST APIs,106
+847,Authentication,106
+848,Deployment,106
+849,Web Fundamentals,107
+850,HTML & CSS,107
+851,JavaScript Basics,107
+852,Frontend Frameworks,107
+853,Backend Concepts,107
+854,REST APIs,107
+855,Authentication,107
+856,Deployment,107
+857,Web Fundamentals,108
+858,HTML & CSS,108
+859,JavaScript Basics,108
+860,Frontend Frameworks,108
+861,Backend Concepts,108
+862,REST APIs,108
+863,Authentication,108
+864,Deployment,108
+865,Web Fundamentals,109
+866,HTML & CSS,109
+867,JavaScript Basics,109
+868,Frontend Frameworks,109
+869,Backend Concepts,109
+870,REST APIs,109
+871,Authentication,109
+872,Deployment,109
+873,Web Fundamentals,110
+874,HTML & CSS,110
+875,JavaScript Basics,110
+876,Frontend Frameworks,110
+877,Backend Concepts,110
+878,REST APIs,110
+879,Authentication,110
+880,Deployment,110
+881,Web Fundamentals,111
+882,HTML & CSS,111
+883,JavaScript Basics,111
+884,Frontend Frameworks,111
+885,Backend Concepts,111
+886,REST APIs,111
+887,Authentication,111
+888,Deployment,111
+889,Web Fundamentals,112
+890,HTML & CSS,112
+891,JavaScript Basics,112
+892,Frontend Frameworks,112
+893,Backend Concepts,112
+894,REST APIs,112
+895,Authentication,112
+896,Deployment,112
+897,Web Fundamentals,113
+898,HTML & CSS,113
+899,JavaScript Basics,113
+900,Frontend Frameworks,113
+901,Backend Concepts,113
+902,REST APIs,113
+903,Authentication,113
+904,Deployment,113
+905,Web Fundamentals,114
+906,HTML & CSS,114
+907,JavaScript Basics,114
+908,Frontend Frameworks,114
+909,Backend Concepts,114
+910,REST APIs,114
+911,Authentication,114
+912,Deployment,114
+913,Web Fundamentals,115
+914,HTML & CSS,115
+915,JavaScript Basics,115
+916,Frontend Frameworks,115
+917,Backend Concepts,115
+918,REST APIs,115
+919,Authentication,115
+920,Deployment,115
+921,Web Fundamentals,116
+922,HTML & CSS,116
+923,JavaScript Basics,116
+924,Frontend Frameworks,116
+925,Backend Concepts,116
+926,REST APIs,116
+927,Authentication,116
+928,Deployment,116
+929,Web Fundamentals,117
+930,HTML & CSS,117
+931,JavaScript Basics,117
+932,Frontend Frameworks,117
+933,Backend Concepts,117
+934,REST APIs,117
+935,Authentication,117
+936,Deployment,117
+937,Web Fundamentals,118
+938,HTML & CSS,118
+939,JavaScript Basics,118
+940,Frontend Frameworks,118
+941,Backend Concepts,118
+942,REST APIs,118
+943,Authentication,118
+944,Deployment,118
+945,Web Fundamentals,119
+946,HTML & CSS,119
+947,JavaScript Basics,119
+948,Frontend Frameworks,119
+949,Backend Concepts,119
+950,REST APIs,119
+951,Authentication,119
+952,Deployment,119
+953,Web Fundamentals,120
+954,HTML & CSS,120
+955,JavaScript Basics,120
+956,Frontend Frameworks,120
+957,Backend Concepts,120
+958,REST APIs,120
+959,Authentication,120
+960,Deployment,120
+961,Web Fundamentals,121
+962,HTML & CSS,121
+963,JavaScript Basics,121
+964,Frontend Frameworks,121
+965,Backend Concepts,121
+966,REST APIs,121
+967,Authentication,121
+968,Deployment,121
+969,Web Fundamentals,122
+970,HTML & CSS,122
+971,JavaScript Basics,122
+972,Frontend Frameworks,122
+973,Backend Concepts,122
+974,REST APIs,122
+975,Authentication,122
+976,Deployment,122
+977,Web Fundamentals,123
+978,HTML & CSS,123
+979,JavaScript Basics,123
+980,Frontend Frameworks,123
+981,Backend Concepts,123
+982,REST APIs,123
+983,Authentication,123
+984,Deployment,123
+985,Web Fundamentals,124
+986,HTML & CSS,124
+987,JavaScript Basics,124
+988,Frontend Frameworks,124
+989,Backend Concepts,124
+990,REST APIs,124
+991,Authentication,124
+992,Deployment,124
+993,Web Fundamentals,125
+994,HTML & CSS,125
+995,JavaScript Basics,125
+996,Frontend Frameworks,125
+997,Backend Concepts,125
+998,REST APIs,125
+999,Authentication,125
+1000,Deployment,125
+1001,Web Fundamentals,126
+1002,HTML & CSS,126
+1003,JavaScript Basics,126
+1004,Frontend Frameworks,126
+1005,Backend Concepts,126
+1006,REST APIs,126
+1007,Authentication,126
+1008,Deployment,126
+1009,Web Fundamentals,127
+1010,HTML & CSS,127
+1011,JavaScript Basics,127
+1012,Frontend Frameworks,127
+1013,Backend Concepts,127
+1014,REST APIs,127
+1015,Authentication,127
+1016,Deployment,127
+1017,Network Basics,128
+1018,OSI & TCP/IP Models,128
+1019,IP Addressing,128
+1020,Routing & Switching,128
+1021,Transport Layer,128
+1022,Application Layer,128
+1023,Network Security,128
+1024,Interview Questions,128
+1025,Web Fundamentals,129
+1026,HTML & CSS,129
+1027,JavaScript Basics,129
+1028,Frontend Frameworks,129
+1029,Backend Concepts,129
+1030,REST APIs,129
+1031,Authentication,129
+1032,Deployment,129
+1033,Web Fundamentals,130
+1034,HTML & CSS,130
+1035,JavaScript Basics,130
+1036,Frontend Frameworks,130
+1037,Backend Concepts,130
+1038,REST APIs,130
+1039,Authentication,130
+1040,Deployment,130
+1041,Web Fundamentals,131
+1042,HTML & CSS,131
+1043,JavaScript Basics,131
+1044,Frontend Frameworks,131
+1045,Backend Concepts,131
+1046,REST APIs,131
+1047,Authentication,131
+1048,Deployment,131
+1049,Web Fundamentals,132
+1050,HTML & CSS,132
+1051,JavaScript Basics,132
+1052,Frontend Frameworks,132
+1053,Backend Concepts,132
+1054,REST APIs,132
+1055,Authentication,132
+1056,Deployment,132
+1057,Java Overview,133
+1058,JVM Architecture,133
+1059,OOP Concepts,133
+1060,Collections Framework,133
+1061,Exception Handling,133
+1062,Multithreading,133
+1063,File Handling,133
+1064,Interview Questions,133
+1065,Web Fundamentals,134
+1066,HTML & CSS,134
+1067,JavaScript Basics,134
+1068,Frontend Frameworks,134
+1069,Backend Concepts,134
+1070,REST APIs,134
+1071,Authentication,134
+1072,Deployment,134
+1073,Web Fundamentals,135
+1074,HTML & CSS,135
+1075,JavaScript Basics,135
+1076,Frontend Frameworks,135
+1077,Backend Concepts,135
+1078,REST APIs,135
+1079,Authentication,135
+1080,Deployment,135
+1081,Web Fundamentals,136
+1082,HTML & CSS,136
+1083,JavaScript Basics,136
+1084,Frontend Frameworks,136
+1085,Backend Concepts,136
+1086,REST APIs,136
+1087,Authentication,136
+1088,Deployment,136
+1089,Web Fundamentals,137
+1090,HTML & CSS,137
+1091,JavaScript Basics,137
+1092,Frontend Frameworks,137
+1093,Backend Concepts,137
+1094,REST APIs,137
+1095,Authentication,137
+1096,Deployment,137
+1097,Web Fundamentals,138
+1098,HTML & CSS,138
+1099,JavaScript Basics,138
+1100,Frontend Frameworks,138
+1101,Backend Concepts,138
+1102,REST APIs,138
+1103,Authentication,138
+1104,Deployment,138
+1105,Web Fundamentals,139
+1106,HTML & CSS,139
+1107,JavaScript Basics,139
+1108,Frontend Frameworks,139
+1109,Backend Concepts,139
+1110,REST APIs,139
+1111,Authentication,139
+1112,Deployment,139
+1113,Web Fundamentals,140
+1114,HTML & CSS,140
+1115,JavaScript Basics,140
+1116,Frontend Frameworks,140
+1117,Backend Concepts,140
+1118,REST APIs,140
+1119,Authentication,140
+1120,Deployment,140
+1121,Web Fundamentals,141
+1122,HTML & CSS,141
+1123,JavaScript Basics,141
+1124,Frontend Frameworks,141
+1125,Backend Concepts,141
+1126,REST APIs,141
+1127,Authentication,141
+1128,Deployment,141
+1129,Web Fundamentals,142
+1130,HTML & CSS,142
+1131,JavaScript Basics,142
+1132,Frontend Frameworks,142
+1133,Backend Concepts,142
+1134,REST APIs,142
+1135,Authentication,142
+1136,Deployment,142
+1137,Web Fundamentals,143
+1138,HTML & CSS,143
+1139,JavaScript Basics,143
+1140,Frontend Frameworks,143
+1141,Backend Concepts,143
+1142,REST APIs,143
+1143,Authentication,143
+1144,Deployment,143
+1145,Web Fundamentals,144
+1146,HTML & CSS,144
+1147,JavaScript Basics,144
+1148,Frontend Frameworks,144
+1149,Backend Concepts,144
+1150,REST APIs,144
+1151,Authentication,144
+1152,Deployment,144
+1153,Web Fundamentals,145
+1154,HTML & CSS,145
+1155,JavaScript Basics,145
+1156,Frontend Frameworks,145
+1157,Backend Concepts,145
+1158,REST APIs,145
+1159,Authentication,145
+1160,Deployment,145
+1161,Web Fundamentals,146
+1162,HTML & CSS,146
+1163,JavaScript Basics,146
+1164,Frontend Frameworks,146
+1165,Backend Concepts,146
+1166,REST APIs,146
+1167,Authentication,146
+1168,Deployment,146
+1169,Web Fundamentals,147
+1170,HTML & CSS,147
+1171,JavaScript Basics,147
+1172,Frontend Frameworks,147
+1173,Backend Concepts,147
+1174,REST APIs,147
+1175,Authentication,147
+1176,Deployment,147
+1177,Web Fundamentals,148
+1178,HTML & CSS,148
+1179,JavaScript Basics,148
+1180,Frontend Frameworks,148
+1181,Backend Concepts,148
+1182,REST APIs,148
+1183,Authentication,148
+1184,Deployment,148
+1185,Web Fundamentals,149
+1186,HTML & CSS,149
+1187,JavaScript Basics,149
+1188,Frontend Frameworks,149
+1189,Backend Concepts,149
+1190,REST APIs,149
+1191,Authentication,149
+1192,Deployment,149
+1193,Web Fundamentals,150
+1194,HTML & CSS,150
+1195,JavaScript Basics,150
+1196,Frontend Frameworks,150
+1197,Backend Concepts,150
+1198,REST APIs,150
+1199,Authentication,150
+1200,Deployment,150
+1201,Web Fundamentals,151
+1202,HTML & CSS,151
+1203,JavaScript Basics,151
+1204,Frontend Frameworks,151
+1205,Backend Concepts,151
+1206,REST APIs,151
+1207,Authentication,151
+1208,Deployment,151
+1209,Web Fundamentals,152
+1210,HTML & CSS,152
+1211,JavaScript Basics,152
+1212,Frontend Frameworks,152
+1213,Backend Concepts,152
+1214,REST APIs,152
+1215,Authentication,152
+1216,Deployment,152
+1217,Web Fundamentals,153
+1218,HTML & CSS,153
+1219,JavaScript Basics,153
+1220,Frontend Frameworks,153
+1221,Backend Concepts,153
+1222,REST APIs,153
+1223,Authentication,153
+1224,Deployment,153
+1225,Web Fundamentals,154
+1226,HTML & CSS,154
+1227,JavaScript Basics,154
+1228,Frontend Frameworks,154
+1229,Backend Concepts,154
+1230,REST APIs,154
+1231,Authentication,154
+1232,Deployment,154
+1233,Web Fundamentals,155
+1234,HTML & CSS,155
+1235,JavaScript Basics,155
+1236,Frontend Frameworks,155
+1237,Backend Concepts,155
+1238,REST APIs,155
+1239,Authentication,155
+1240,Deployment,155
+1241,Web Fundamentals,156
+1242,HTML & CSS,156
+1243,JavaScript Basics,156
+1244,Frontend Frameworks,156
+1245,Backend Concepts,156
+1246,REST APIs,156
+1247,Authentication,156
+1248,Deployment,156
+1249,Web Fundamentals,157
+1250,HTML & CSS,157
+1251,JavaScript Basics,157
+1252,Frontend Frameworks,157
+1253,Backend Concepts,157
+1254,REST APIs,157
+1255,Authentication,157
+1256,Deployment,157
+1257,DBMS Overview,158
+1258,ER Modeling,158
+1259,Normalization,158
+1260,SQL Basics,158
+1261,Joins & Subqueries,158
+1262,Indexes,158
+1263,Transactions & ACID,158
+1264,Interview Questions,158
+1265,Web Fundamentals,159
+1266,HTML & CSS,159
+1267,JavaScript Basics,159
+1268,Frontend Frameworks,159
+1269,Backend Concepts,159
+1270,REST APIs,159
+1271,Authentication,159
+1272,Deployment,159
+1273,Web Fundamentals,160
+1274,HTML & CSS,160
+1275,JavaScript Basics,160
+1276,Frontend Frameworks,160
+1277,Backend Concepts,160
+1278,REST APIs,160
+1279,Authentication,160
+1280,Deployment,160
+1281,Web Fundamentals,161
+1282,HTML & CSS,161
+1283,JavaScript Basics,161
+1284,Frontend Frameworks,161
+1285,Backend Concepts,161
+1286,REST APIs,161
+1287,Authentication,161
+1288,Deployment,161
+1289,Web Fundamentals,162
+1290,HTML & CSS,162
+1291,JavaScript Basics,162
+1292,Frontend Frameworks,162
+1293,Backend Concepts,162
+1294,REST APIs,162
+1295,Authentication,162
+1296,Deployment,162
+1297,Web Fundamentals,163
+1298,HTML & CSS,163
+1299,JavaScript Basics,163
+1300,Frontend Frameworks,163
+1301,Backend Concepts,163
+1302,REST APIs,163
+1303,Authentication,163
+1304,Deployment,163
+1305,Algorithm Analysis,164
+1306,Sorting Algorithms,164
+1307,Searching Algorithms,164
+1308,Recursion,164
+1309,Greedy Algorithms,164
+1310,Dynamic Programming,164
+1311,Graph Algorithms,164
+1312,Interview Problems,164
+1313,Web Fundamentals,165
+1314,HTML & CSS,165
+1315,JavaScript Basics,165
+1316,Frontend Frameworks,165
+1317,Backend Concepts,165
+1318,REST APIs,165
+1319,Authentication,165
+1320,Deployment,165
+1321,Network Basics,166
+1322,OSI & TCP/IP Models,166
+1323,IP Addressing,166
+1324,Routing & Switching,166
+1325,Transport Layer,166
+1326,Application Layer,166
+1327,Network Security,166
+1328,Interview Questions,166
+1329,Web Fundamentals,167
+1330,HTML & CSS,167
+1331,JavaScript Basics,167
+1332,Frontend Frameworks,167
+1333,Backend Concepts,167
+1334,REST APIs,167
+1335,Authentication,167
+1336,Deployment,167
+1337,Arrays & Strings,168
+1338,Linked Lists,168
+1339,Stacks & Queues,168
+1340,Trees,168
+1341,Graphs,168
+1342,Hashing,168
+1343,Time Complexity,168
+1344,Problem Solving,168
+1345,Web Fundamentals,169
+1346,HTML & CSS,169
+1347,JavaScript Basics,169
+1348,Frontend Frameworks,169
+1349,Backend Concepts,169
+1350,REST APIs,169
+1351,Authentication,169
+1352,Deployment,169
+1353,Web Fundamentals,170
+1354,HTML & CSS,170
+1355,JavaScript Basics,170
+1356,Frontend Frameworks,170
+1357,Backend Concepts,170
+1358,REST APIs,170
+1359,Authentication,170
+1360,Deployment,170
+1361,Web Fundamentals,171
+1362,HTML & CSS,171
+1363,JavaScript Basics,171
+1364,Frontend Frameworks,171
+1365,Backend Concepts,171
+1366,REST APIs,171
+1367,Authentication,171
+1368,Deployment,171
+1369,Web Fundamentals,172
+1370,HTML & CSS,172
+1371,JavaScript Basics,172
+1372,Frontend Frameworks,172
+1373,Backend Concepts,172
+1374,REST APIs,172
+1375,Authentication,172
+1376,Deployment,172
+1377,Web Fundamentals,173
+1378,HTML & CSS,173
+1379,JavaScript Basics,173
+1380,Frontend Frameworks,173
+1381,Backend Concepts,173
+1382,REST APIs,173
+1383,Authentication,173
+1384,Deployment,173
+1385,Web Fundamentals,174
+1386,HTML & CSS,174
+1387,JavaScript Basics,174
+1388,Frontend Frameworks,174
+1389,Backend Concepts,174
+1390,REST APIs,174
+1391,Authentication,174
+1392,Deployment,174
+1393,Java Overview,175
+1394,JVM Architecture,175
+1395,OOP Concepts,175
+1396,Collections Framework,175
+1397,Exception Handling,175
+1398,Multithreading,175
+1399,File Handling,175
+1400,Interview Questions,175
+1401,Java Overview,176
+1402,JVM Architecture,176
+1403,OOP Concepts,176
+1404,Collections Framework,176
+1405,Exception Handling,176
+1406,Multithreading,176
+1407,File Handling,176
+1408,Interview Questions,176
+1409,Algorithm Analysis,177
+1410,Sorting Algorithms,177
+1411,Searching Algorithms,177
+1412,Recursion,177
+1413,Greedy Algorithms,177
+1414,Dynamic Programming,177
+1415,Graph Algorithms,177
+1416,Interview Problems,177
+1417,Web Fundamentals,178
+1418,HTML & CSS,178
+1419,JavaScript Basics,178
+1420,Frontend Frameworks,178
+1421,Backend Concepts,178
+1422,REST APIs,178
+1423,Authentication,178
+1424,Deployment,178
+1425,Web Fundamentals,179
+1426,HTML & CSS,179
+1427,JavaScript Basics,179
+1428,Frontend Frameworks,179
+1429,Backend Concepts,179
+1430,REST APIs,179
+1431,Authentication,179
+1432,Deployment,179
+1433,Web Fundamentals,180
+1434,HTML & CSS,180
+1435,JavaScript Basics,180
+1436,Frontend Frameworks,180
+1437,Backend Concepts,180
+1438,REST APIs,180
+1439,Authentication,180
+1440,Deployment,180
+1441,Arrays & Strings,181
+1442,Linked Lists,181
+1443,Stacks & Queues,181
+1444,Trees,181
+1445,Graphs,181
+1446,Hashing,181
+1447,Time Complexity,181
+1448,Problem Solving,181
+1449,Web Fundamentals,182
+1450,HTML & CSS,182
+1451,JavaScript Basics,182
+1452,Frontend Frameworks,182
+1453,Backend Concepts,182
+1454,REST APIs,182
+1455,Authentication,182
+1456,Deployment,182
+1457,Web Fundamentals,183
+1458,HTML & CSS,183
+1459,JavaScript Basics,183
+1460,Frontend Frameworks,183
+1461,Backend Concepts,183
+1462,REST APIs,183
+1463,Authentication,183
+1464,Deployment,183
+1465,Web Fundamentals,184
+1466,HTML & CSS,184
+1467,JavaScript Basics,184
+1468,Frontend Frameworks,184
+1469,Backend Concepts,184
+1470,REST APIs,184
+1471,Authentication,184
+1472,Deployment,184
+1473,Web Fundamentals,185
+1474,HTML & CSS,185
+1475,JavaScript Basics,185
+1476,Frontend Frameworks,185
+1477,Backend Concepts,185
+1478,REST APIs,185
+1479,Authentication,185
+1480,Deployment,185
+1481,Web Fundamentals,186
+1482,HTML & CSS,186
+1483,JavaScript Basics,186
+1484,Frontend Frameworks,186
+1485,Backend Concepts,186
+1486,REST APIs,186
+1487,Authentication,186
+1488,Deployment,186
+1489,Web Fundamentals,187
+1490,HTML & CSS,187
+1491,JavaScript Basics,187
+1492,Frontend Frameworks,187
+1493,Backend Concepts,187
+1494,REST APIs,187
+1495,Authentication,187
+1496,Deployment,187
+1497,OS Overview,188
+1498,Process Management,188
+1499,Threading,188
+1500,CPU Scheduling,188
+1501,Deadlocks,188
+1502,Memory Management,188
+1503,File Systems,188
+1504,Interview Questions,188
+1505,Web Fundamentals,189
+1506,HTML & CSS,189
+1507,JavaScript Basics,189
+1508,Frontend Frameworks,189
+1509,Backend Concepts,189
+1510,REST APIs,189
+1511,Authentication,189
+1512,Deployment,189
+1513,DBMS Overview,190
+1514,ER Modeling,190
+1515,Normalization,190
+1516,SQL Basics,190
+1517,Joins & Subqueries,190
+1518,Indexes,190
+1519,Transactions & ACID,190
+1520,Interview Questions,190
+1521,Web Fundamentals,191
+1522,HTML & CSS,191
+1523,JavaScript Basics,191
+1524,Frontend Frameworks,191
+1525,Backend Concepts,191
+1526,REST APIs,191
+1527,Authentication,191
+1528,Deployment,191
+1529,Web Fundamentals,192
+1530,HTML & CSS,192
+1531,JavaScript Basics,192
+1532,Frontend Frameworks,192
+1533,Backend Concepts,192
+1534,REST APIs,192
+1535,Authentication,192
+1536,Deployment,192
+1537,Web Fundamentals,193
+1538,HTML & CSS,193
+1539,JavaScript Basics,193
+1540,Frontend Frameworks,193
+1541,Backend Concepts,193
+1542,REST APIs,193
+1543,Authentication,193
+1544,Deployment,193
+1545,Web Fundamentals,194
+1546,HTML & CSS,194
+1547,JavaScript Basics,194
+1548,Frontend Frameworks,194
+1549,Backend Concepts,194
+1550,REST APIs,194
+1551,Authentication,194
+1552,Deployment,194
+1553,Web Fundamentals,195
+1554,HTML & CSS,195
+1555,JavaScript Basics,195
+1556,Frontend Frameworks,195
+1557,Backend Concepts,195
+1558,REST APIs,195
+1559,Authentication,195
+1560,Deployment,195
+1561,Web Fundamentals,196
+1562,HTML & CSS,196
+1563,JavaScript Basics,196
+1564,Frontend Frameworks,196
+1565,Backend Concepts,196
+1566,REST APIs,196
+1567,Authentication,196
+1568,Deployment,196
+1569,Web Fundamentals,197
+1570,HTML & CSS,197
+1571,JavaScript Basics,197
+1572,Frontend Frameworks,197
+1573,Backend Concepts,197
+1574,REST APIs,197
+1575,Authentication,197
+1576,Deployment,197
+1577,Web Fundamentals,198
+1578,HTML & CSS,198
+1579,JavaScript Basics,198
+1580,Frontend Frameworks,198
+1581,Backend Concepts,198
+1582,REST APIs,198
+1583,Authentication,198
+1584,Deployment,198
+1585,Web Fundamentals,199
+1586,HTML & CSS,199
+1587,JavaScript Basics,199
+1588,Frontend Frameworks,199
+1589,Backend Concepts,199
+1590,REST APIs,199
+1591,Authentication,199
+1592,Deployment,199
+1593,Web Fundamentals,200
+1594,HTML & CSS,200
+1595,JavaScript Basics,200
+1596,Frontend Frameworks,200
+1597,Backend Concepts,200
+1598,REST APIs,200
+1599,Authentication,200
+1600,Deployment,200

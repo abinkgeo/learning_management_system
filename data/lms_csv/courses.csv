@@ -1,0 +1,201 @@
+course_id,course_name,course_duration
+1,Web Development (Intermediate),50
+2,Frontend Development (Advanced),98
+3,Compiler Design (Advanced),53
+4,Backend Development (Advanced),61
+5,Blockchain Technology (Advanced),101
+6,Advanced Java (Intermediate),65
+7,Spring Boot (Beginner),91
+8,Blockchain Technology (Intermediate),76
+9,Blockchain Technology (Beginner),65
+10,Data Warehousing (Intermediate),151
+11,Advanced Java (Intermediate),157
+12,Spring Boot (Intermediate),93
+13,Python Programming (Advanced),149
+14,Software Engineering (Advanced),159
+15,Data Science (Intermediate),130
+16,Advanced Java (Beginner),157
+17,Computer Networks (Intermediate),148
+18,System Design (Beginner),94
+19,Computer Networks (Advanced),130
+20,ETL & Data Pipelines (Advanced),85
+21,ETL & Data Pipelines (Intermediate),143
+22,Testing & Automation (Beginner),104
+23,Data Science (Advanced),71
+24,Network Security (Intermediate),106
+25,Cyber Security Fundamentals (Intermediate),55
+26,Object Oriented Programming (Intermediate),112
+27,Computer Architecture (Intermediate),84
+28,Software Engineering (Advanced),113
+29,Android Development (Intermediate),121
+30,C Programming (Advanced),109
+31,Advanced Java (Intermediate),144
+32,Data Warehousing (Beginner),143
+33,Cloud Computing (Intermediate),135
+34,Testing & Automation (Beginner),127
+35,Docker & Kubernetes (Advanced),77
+36,Linux System Administration (Advanced),139
+37,AWS Fundamentals (Beginner),83
+38,Compiler Design (Advanced),51
+39,Design Patterns (Advanced),65
+40,Software Engineering (Beginner),144
+41,Design Patterns (Beginner),135
+42,C++ Programming (Advanced),45
+43,Advanced Java (Intermediate),118
+44,Software Engineering (Beginner),137
+45,Advanced Java (Intermediate),62
+46,Linux System Administration (Beginner),95
+47,ETL & Data Pipelines (Intermediate),66
+48,Frontend Development (Intermediate),122
+49,Spring Boot (Intermediate),55
+50,Docker & Kubernetes (Intermediate),47
+51,ETL & Data Pipelines (Intermediate),59
+52,Docker & Kubernetes (Beginner),63
+53,Docker & Kubernetes (Beginner),103
+54,Data Structures (Advanced),101
+55,C Programming (Advanced),118
+56,Compiler Design (Beginner),82
+57,Advanced Java (Advanced),42
+58,Design Patterns (Advanced),82
+59,Testing & Automation (Beginner),68
+60,Core Java (Advanced),112
+61,C++ Programming (Advanced),125
+62,Backend Development (Beginner),134
+63,Distributed Systems (Beginner),159
+64,Big Data Fundamentals (Beginner),117
+65,Data Warehousing (Beginner),49
+66,System Design (Advanced),156
+67,Data Structures (Intermediate),61
+68,C Programming (Intermediate),143
+69,Computer Architecture (Intermediate),133
+70,Backend Development (Advanced),112
+71,C Programming (Beginner),66
+72,Cloud Computing (Intermediate),61
+73,Selenium Testing (Intermediate),107
+74,Full Stack Development (Beginner),49
+75,Computer Networks (Intermediate),130
+76,Data Structures (Advanced),106
+77,Data Science (Intermediate),63
+78,Cyber Security Fundamentals (Advanced),157
+79,Database Management Systems (Advanced),123
+80,System Design (Beginner),112
+81,Blockchain Technology (Advanced),81
+82,Docker & Kubernetes (Intermediate),65
+83,Backend Development (Beginner),59
+84,Algorithms (Advanced),99
+85,Artificial Intelligence (Beginner),135
+86,Backend Development (Beginner),134
+87,Cloud Computing (Intermediate),80
+88,Frontend Development (Intermediate),90
+89,Web Development (Advanced),63
+90,Linux System Administration (Advanced),143
+91,Cloud Computing (Beginner),64
+92,Selenium Testing (Advanced),61
+93,Cyber Security Fundamentals (Intermediate),147
+94,Database Management Systems (Intermediate),47
+95,Full Stack Development (Advanced),83
+96,DevOps Engineering (Intermediate),90
+97,Operating Systems (Beginner),81
+98,Artificial Intelligence (Intermediate),138
+99,Core Java (Beginner),71
+100,Python Programming (Advanced),110
+101,Data Structures (Advanced),103
+102,Blockchain Technology (Advanced),102
+103,AWS Fundamentals (Advanced),52
+104,Data Science (Beginner),142
+105,Design Patterns (Intermediate),60
+106,Compiler Design (Beginner),146
+107,Interview Preparation – CS Core (Beginner),102
+108,Testing & Automation (Intermediate),93
+109,C++ Programming (Advanced),146
+110,Android Development (Beginner),122
+111,Software Engineering (Intermediate),101
+112,Cloud Computing (Advanced),125
+113,C Programming (Intermediate),81
+114,Frontend Development (Beginner),52
+115,C Programming (Intermediate),147
+116,Testing & Automation (Intermediate),96
+117,Spring Boot (Intermediate),94
+118,Artificial Intelligence (Advanced),92
+119,C Programming (Advanced),44
+120,Compiler Design (Advanced),91
+121,Blockchain Technology (Advanced),94
+122,C Programming (Beginner),114
+123,Interview Preparation – CS Core (Intermediate),85
+124,Frontend Development (Intermediate),110
+125,Cyber Security Fundamentals (Beginner),66
+126,Web Development (Beginner),137
+127,REST API Development (Advanced),152
+128,Network Security (Beginner),135
+129,Testing & Automation (Advanced),144
+130,Computer Architecture (Beginner),121
+131,Android Development (Beginner),50
+132,System Design (Intermediate),89
+133,Core Java (Intermediate),127
+134,Deep Learning (Advanced),158
+135,Cyber Security Fundamentals (Advanced),83
+136,REST API Development (Advanced),97
+137,Big Data Fundamentals (Advanced),72
+138,System Design (Beginner),144
+139,Object Oriented Programming (Beginner),129
+140,Android Development (Advanced),107
+141,Backend Development (Advanced),85
+142,Design Patterns (Intermediate),91
+143,Computer Architecture (Intermediate),120
+144,Linux System Administration (Intermediate),109
+145,C++ Programming (Advanced),87
+146,System Design (Intermediate),103
+147,Frontend Development (Intermediate),108
+148,Machine Learning (Intermediate),75
+149,Data Warehousing (Beginner),45
+150,ETL & Data Pipelines (Advanced),139
+151,Data Warehousing (Beginner),145
+152,C Programming (Beginner),105
+153,Testing & Automation (Intermediate),97
+154,Big Data Fundamentals (Intermediate),130
+155,Data Science (Intermediate),144
+156,Testing & Automation (Beginner),55
+157,DevOps Engineering (Beginner),115
+158,Database Management Systems (Beginner),138
+159,C++ Programming (Intermediate),89
+160,Machine Learning (Advanced),51
+161,Data Science (Intermediate),45
+162,Computer Architecture (Intermediate),95
+163,Data Science (Beginner),144
+164,Algorithms (Intermediate),71
+165,Interview Preparation – CS Core (Advanced),68
+166,Computer Networks (Advanced),157
+167,Distributed Systems (Advanced),42
+168,Data Structures (Advanced),121
+169,Data Science (Intermediate),43
+170,REST API Development (Beginner),143
+171,Blockchain Technology (Advanced),94
+172,Agile & Scrum (Beginner),131
+173,Blockchain Technology (Beginner),58
+174,DevOps Engineering (Beginner),88
+175,Core Java (Intermediate),41
+176,Advanced Java (Beginner),85
+177,Algorithms (Beginner),116
+178,Artificial Intelligence (Intermediate),150
+179,Docker & Kubernetes (Intermediate),131
+180,Software Engineering (Beginner),84
+181,Data Structures (Advanced),138
+182,Machine Learning (Beginner),57
+183,REST API Development (Intermediate),148
+184,Spring Boot (Intermediate),127
+185,Linux System Administration (Beginner),107
+186,Cloud Computing (Advanced),96
+187,Frontend Development (Advanced),100
+188,Operating Systems (Advanced),105
+189,Compiler Design (Beginner),84
+190,Database Management Systems (Advanced),81
+191,C++ Programming (Intermediate),47
+192,System Design (Advanced),138
+193,AWS Fundamentals (Beginner),65
+194,Compiler Design (Beginner),137
+195,Object Oriented Programming (Beginner),121
+196,Software Engineering (Beginner),57
+197,Microservices Architecture (Beginner),73
+198,DevOps Engineering (Advanced),114
+199,Cloud Computing (Intermediate),98
+200,Testing & Automation (Beginner),99
