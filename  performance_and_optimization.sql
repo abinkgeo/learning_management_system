@@ -11,14 +11,20 @@ ON lms.enrollments (user_id);
 CREATE INDEX idx_lessons_course
 ON lms.lessons (course_id);
 
-CREATE INDEX idx_assessments_lesson
+CREATE INDEX idx_assessments_lessonu
 ON lms.assessments (lesson_id);
  
 CREATE INDEX idx_submission_assign
 ON lms.assessment_submission (assign_id);
 
-CREATE INDEX idx_user_activity_user_time
-ON lms.user_activity (user_id, activity_date);
+CREATE NONCLUSTERED COLUMNSTORE INDEX idx_cs_user_activity_analytics
+ON lms.user_activity (
+    user_id,
+    lesson_id,
+    activity_date,
+    activity_status
+);
+
 
 
 -- 22. Identify potential performance bottlenecks in queries involving user activity.
