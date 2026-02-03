@@ -35,8 +35,8 @@ ASSUMPTIONS:
 SELECT TOP 3 u.user_id,u.user_name , COUNT(ua.activity_id) as total_activity_count
 FROM lms.users u   LEFT JOIN lms.user_activity ua 
 ON u.user_id = ua.user_id
-GROUP BY u.user_id,u.user_name;
-
+GROUP BY u.user_id,u.user_name
+ORDER BY total_activity_count DESC;
 -- 13. Calculate course completion percentage per user based on lesson activity.
 /* 
 WHY INNER JOIN:
